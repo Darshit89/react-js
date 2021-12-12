@@ -1,0 +1,9 @@
+.chart {
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 0 0 15px -10px black;
+}
+.charttile {
+  margin-bottom: 20px;
+  color: rgb(99, 99, 247);
+}
